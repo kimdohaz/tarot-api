@@ -203,7 +203,7 @@ def privacy_policy() -> str:
         </ul>
         <p>이 정보는 카드 추첨 결과를 반환하기 위한 목적으로만 사용됩니다.</p>
         <p>민감한 개인정보의 장기 저장은 의도하지 않습니다.</p>
-        <p>문의: please-replace-with-your-email@example.com</p>
+        <p>문의: ksr3595@naver.com</p>
       </body>
     </html>
     """
